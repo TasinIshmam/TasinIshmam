@@ -23,6 +23,6 @@ I'm a Computer Science student, currently in my third year at Bangladesh Univers
 
 - 👯 I’m looking for internships, remote work oppurtunities (Part Time), interesting software projects and research oppurtunities in Machine Learning.
 
-- ⚡ I have a blog at https://tasinishmam.com where I geek out about technology.
+- ⚡ I have a [blog](https://tasinishmam.com/posts/) where I geek out about technology.
 
 
