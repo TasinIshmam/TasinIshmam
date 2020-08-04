@@ -21,7 +21,7 @@ I'm a Computer Science Enthusiast. Currently in my Third Year at Bangladesh Univ
 
 - 🚴‍♂️ I love traveling, photography and reading good books.
 
-- 👯 I’m looking for interships,interesting software projects and research oppurtunities in Machine Learning.
+- 👯 I’m looking for interships, interesting software projects and research oppurtunities in Machine Learning.
 
 - ⚡ I have a blog at https://tasinishmam.com where I geek out about technology.
 
