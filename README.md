@@ -10,10 +10,10 @@
   <a href="mailto:tasinishmam@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="tasinishmam" height="25" width="25" /></a>
 </p>
 
-I'm a Computer Science Enthusiast. Currently in my Third Year at Bangladesh University of Engineering & Technology 👨‍🎓
+I'm a Computer Science student, currently in my third year at Bangladesh University of Engineering & Technology 👨‍🎓
 
   - :computer: Technologies I Use:&nbsp;&nbsp; NodeJS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;&nbsp; Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp; Python<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp; Pytorch<img height="20" src="https://user-images.githubusercontent.com/29299547/89239533-4a771280-d61b-11ea-9a1b-cdbe529b11ca.png">&nbsp;&nbsp; Tensorflow<img height="20" src="https://user-images.githubusercontent.com/29299547/89239583-76929380-d61b-11ea-93ac-156bdeb453e5.png">
-- 🔭 I'm a Software Engineer & Back End web developer with multiple freelance and professional projects under my belt. 
+- 🔭 I'm a Software Engineer & Back End web developer with multiple freelance and professional projects under my belt. Check out my [portfolio](https://tasinishmam.com/projects/)
 
 - :books: I'm passionate about Machine Learning and I'm currently working on a Computer Vision related research project.
 
@@ -21,7 +21,7 @@ I'm a Computer Science Enthusiast. Currently in my Third Year at Bangladesh Univ
 
 - 🚴‍♂️ I love traveling, photography and reading good books.
 
-- 👯 I’m looking for interships, interesting software projects and research oppurtunities in Machine Learning.
+- 👯 I’m looking for internships, remote work oppurtunities (Part Time), interesting software projects and research oppurtunities in Machine Learning.
 
 - ⚡ I have a blog at https://tasinishmam.com where I geek out about technology.
 
