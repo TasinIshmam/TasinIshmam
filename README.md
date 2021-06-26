@@ -15,9 +15,9 @@ I'm a Computer Science student, currently in my final year at Bangladesh Univers
   - :computer: Technologies I Use:&nbsp;&nbsp; NodeJS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;&nbsp; Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp; Python<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp; Pytorch<img height="20" src="https://user-images.githubusercontent.com/29299547/89239533-4a771280-d61b-11ea-9a1b-cdbe529b11ca.png">&nbsp;&nbsp; 
 - 🔭 I'm a Software Engineer & Back End web developer with multiple freelance and professional projects under my belt. Check out my [portfolio](https://tasinishmam.com/projects/).
 
-- :books: I'm passionate about Machine Learning and I'm currently working on a Computer Vision related research project.
+- :books: I'm passionate about Machine Learning and I'm currently working on a Natural Language Processing related research project.
 
-- 🌱 I'm learning about system design, cloud computing architecture and various Computer Vision and NLP topics.
+- 🌱 I'm learning about system design, cloud computing, and various Computer Vision and NLP topics.
 
 - 🚴‍♂️ I love traveling, photography and reading good books.
 
