@@ -20,7 +20,7 @@ I'm a Computer Science student, currently in my final year at Bangladesh Univers
 - 🌱 I'm learning about system design, cloud computing, and various Computer Vision and NLP topics.
 
 - 🚴‍♂️ I love traveling, photography and reading good books.
-- 
+
 - ⚡ I have a [blog](https://tasinishmam.com/posts/) where I geek out about technology.
 
 
