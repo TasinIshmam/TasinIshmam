@@ -20,7 +20,7 @@ I'm currently working at [Prisma](https://www.prisma.io/) as a Developer Advocat
 
 - 🌱 I'm learning about databases, system design, cloud computing, and type systems. 
 
-- 🚴‍♂️ I love traveling, photography and reading good books.
+- 🚴‍♂️ I love traveling, photography and reading.
 
 - ⚡ I have a [blog](https://tasinishmam.com/posts/) where I geek out about technology.
 
