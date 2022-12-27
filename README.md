@@ -10,14 +10,14 @@
 </p>
 
 
-I'm a recent graduate from Bangladesh University of Engineering & Technology and I majored in Computer Science and Engineering 👨‍🎓.
+I'm currently working at [Prisma](https://www.prisma.io/) as a Developer Advocate to make databases easy.
 
-  - :computer: Technologies I Use:&nbsp;&nbsp; NodeJS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;&nbsp; Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp; Python<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp; Pytorch<img height="20" src="https://user-images.githubusercontent.com/29299547/89239533-4a771280-d61b-11ea-9a1b-cdbe529b11ca.png">&nbsp;&nbsp; 
-- 🔭 I'm a Software Engineer & Back End web developer with multiple freelance and professional projects under my belt. Check out my [portfolio](https://tasinishmam.com/projects/).
 
-- :books: I'm passionate about Machine Learning and I'm currently working on a Natural Language Processing related research project.
+- 🔭 I'm a Software Engineer with multiple freelance and professional projects under my belt. Check out my [resume](https://tasinishmam.com/Tasin-Ishmam-CV.pdf).
 
-- 🌱 I'm learning about system design, cloud computing, and various Computer Vision and NLP topics.
+- :books: I'm passionate about Machine Learning and have [two publications](https://tasinishmam.com/publications/) on projects related to computer vision. 
+
+- 🌱 I'm learning about databases, system design, cloud computing, and type systems. 
 
 - 🚴‍♂️ I love traveling, photography and reading good books.
 
