@@ -11,7 +11,7 @@
 </p>
 
 
-I'm currently working at [Prisma](https://www.prisma.io/) as a Developer Advocate to make databases easy.
+I'm currently working at [Smartly](https://www.smartly.io/) as a Software Engineer.
 
 
 - 🔭 I'm a Software Engineer with multiple freelance and professional projects under my belt. Check out my [resume](https://tasinishmam.com/Tasin-Ishmam-CV.pdf).
