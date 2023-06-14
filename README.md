@@ -18,8 +18,6 @@ I'm currently working at [Smartly](https://www.smartly.io/) as a Software Engine
 
 - :books: I'm passionate about Machine Learning and have [two publications](https://tasinishmam.com/publications/) on projects related to computer vision. 
 
-- 🌱 I'm learning about databases, system design, cloud computing, and type systems. 
-
 - 🚴‍♂️ I love traveling, photography and reading.
 
 - ⚡ I have a [blog](https://tasinishmam.com/posts/) where I geek out about technology.
