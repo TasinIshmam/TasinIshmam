@@ -20,6 +20,3 @@ I'm currently working at [Smartly](https://www.smartly.io/) as a Software Engine
 
 - 🚴‍♂️ I love traveling, photography and reading.
 
-- ⚡ I have a [blog](https://tasinishmam.com/posts/) where I geek out about technology.
-
-
